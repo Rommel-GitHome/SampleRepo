@@ -1,0 +1,44 @@
+{
+	"id": "2f2d12d3-db95-4071-bf58-89b66f90efe6",
+	"createdAt": "2022-02-11T11:58:33.831Z",
+	"createdBy": "admin",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [
+		{
+			"id": "6209467c-6e49-4662-b59b-bb3e37aa2fe8",
+			"parent": "c7fddf74-39fd-4d20-8a6b-8a6b3a6b0da5",
+			"name": "/pet/findByStatus",
+			"contextname": "PetFindByStatus",
+			"method": "GET"
+		},
+		{
+			"id": "1975fa52-77c9-4037-aa39-d2c246e1b483",
+			"parent": "c7fddf74-39fd-4d20-8a6b-8a6b3a6b0da5",
+			"name": "/pet",
+			"contextname": "pet",
+			"method": "POST"
+		}
+	],
+	"name": "errorScript",
+	"ver": "22.3.30.1524",
+	"description": null,
+	"content": [
+		"==OBJECT STRING==",
+		"//throw new Error(\"Your fault, not mine!\");\r",
+		"await sendEmail({\r",
+		"    to: \"rommel@neptune-software.com\", \r",
+		"    subject: \"Test\", \r",
+		"    bcc: \"jantri@gmail.com\" \r",
+		"});\r",
+		"\r",
+		""
+	],
+	"useAsGlobalScript": false,
+	"isTypescript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": true,
+	"jsscriptGroup": "5a5e18b9-4912-4299-a498-a7a52013576c",
+	"package": "ac294bb4-402c-44cb-ac99-ec53789f5528"
+}
