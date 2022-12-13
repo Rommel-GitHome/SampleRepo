@@ -1,0 +1,15 @@
+{
+	"id": "c0f2e8ca-c37a-ed11-9f5f-000d3ade694b",
+	"createdAt": "2022-12-13T08:54:47.006Z",
+	"createdBy": "admin",
+	"name": "Event 1931",
+	"description": null,
+	"eventAction": "JobEvent",
+	"scriptId": null,
+	"jobId": null,
+	"workflowId": null,
+	"package": "33f879a6-c37a-ed11-9f5f-000d3ade694b",
+	"script": null,
+	"job": null,
+	"workflow": null
+}

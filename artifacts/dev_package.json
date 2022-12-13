@@ -1,0 +1,45 @@
+{
+	"id": "33f879a6-c37a-ed11-9f5f-000d3ade694b",
+	"createdAt": "2022-12-13T08:53:45.893Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/Rommel-GitHome/SampleRepo.git"
+	},
+	"name": "SampleRepo",
+	"description": null,
+	"ver": "22.12.13.854",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [
+		{
+			"id": "c0f2e8ca-c37a-ed11-9f5f-000d3ade694b",
+			"name": "Event 1931",
+			"description": null
+		}
+	],
+	"media_library": []
+}
