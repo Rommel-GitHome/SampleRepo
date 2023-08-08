@@ -4,12 +4,16 @@
 	"createdBy": "admin",
 	"name": "Event 1931",
 	"description": null,
-	"eventAction": "JobEvent",
-	"scriptId": null,
+	"eventAction": "ScriptEvent",
+	"scriptId": "7ea132f7-3550-4cf1-991c-f4a92b7027a3",
 	"jobId": null,
 	"workflowId": null,
 	"package": "33f879a6-c37a-ed11-9f5f-000d3ade694b",
-	"script": null,
+	"script": {
+		"id": "7ea132f7-3550-4cf1-991c-f4a92b7027a3",
+		"name": "events_script",
+		"ver": "23.7.3.1154"
+	},
 	"job": null,
 	"workflow": null
 }
