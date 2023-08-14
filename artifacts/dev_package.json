@@ -7,7 +7,7 @@
 	},
 	"name": "SampleRepo",
 	"description": "Test",
-	"ver": "23.8.14.1421",
+	"ver": "23.8.14.1424",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
