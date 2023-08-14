@@ -34,13 +34,8 @@
 	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": [],
-	"events": [
-		{
-			"id": "c0f2e8ca-c37a-ed11-9f5f-000d3ade694b",
-			"name": "Event 1931",
-			"description": null
-		}
-	],
+	"events": [],
+	"media_library": [],
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": []
