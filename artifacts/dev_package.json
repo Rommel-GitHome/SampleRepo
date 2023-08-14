@@ -16,7 +16,13 @@
 	"dictionary": [],
 	"jsclass": [],
 	"jsscript_group": [],
-	"theme": [],
+	"theme": [
+		{
+			"id": "004d5d4d-ac3a-ee11-b8f0-0022489c2d49",
+			"name": "Theme2243",
+			"description": null
+		}
+	],
 	"pdf": [],
 	"rulesengine": [],
 	"reports": [],
@@ -35,6 +41,7 @@
 	"wf_definition": [],
 	"connector": [],
 	"events": [],
+	"media_library": [],
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": []
