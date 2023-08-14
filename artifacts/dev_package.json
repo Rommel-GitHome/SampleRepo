@@ -7,7 +7,7 @@
 	},
 	"name": "SampleRepo",
 	"description": null,
-	"ver": "22.12.13.854",
+	"ver": "23.8.14.1348",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
@@ -41,5 +41,7 @@
 			"description": null
 		}
 	],
-	"media_library": []
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
 }
